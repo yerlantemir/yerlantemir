@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Yerlan and I love automating boring processes with coding.
+
 <!--
 **yerlantemir/yerlantemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
